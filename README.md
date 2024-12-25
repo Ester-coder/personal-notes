@@ -1,7 +1,7 @@
 # Personal Notes
 Proyek React Personal Notes adalah aplikasi berbasis React yang memungkinkan pengguna untuk membuat, mengedit, dan menghapus catatan pribadi mereka. Aplikasi ini dirancang untuk membantu pengguna menyimpan ide-ide, tugas, atau hal-hal penting dalam format catatan yang mudah diakses dan dikelola. Berikut adalah deskripsi umum untuk proyek React Personal Notes:
 
-![Screenshot](images/main_view.png)
+![Screenshot](image/main_view.png)
 
 ## Fitur Utama:
 **Menambah Catatan:** Pengguna dapat membuat catatan baru dengan memasukkan judul dan isi catatan.<br>
